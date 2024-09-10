@@ -10,7 +10,7 @@ The Wild Oasis is an internal hotel management system that streamlines hotel boo
 
 ## Features
 
-- **Bookings Management**: Easily handle guest bookings with a clean and intuitive interface.
+- **Bookings Management**: Easily handle guest Bookings with a clean and intuitive interface.
 - **Cabins Management**: Manage and track cabin availability and details efficiently.
 - **Guest Services**: Keep track of guest information and services during their stay.
 - **Real-time Updates**: With Supabase as the backend, data is updated in real-time.
