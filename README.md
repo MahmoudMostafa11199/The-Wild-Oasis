@@ -4,7 +4,7 @@
 
 The Wild Oasis is an internal hotel management system that streamlines hotel bookings, cabin management, and guest services. It is built with modern web technologies to provide hotel staff with an easy-to-use interface for managing all aspects of the hotel.
 
-[Live Demo](https://the-wild-oasis-roan.vercel.app/)
+[Live Demo](https://the-wild-oasis-mahmoud.vercel.app/)
 
 </div>
 
